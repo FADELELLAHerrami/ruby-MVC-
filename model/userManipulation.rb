@@ -29,14 +29,6 @@ class UserManipulation
         end 
     end 
 
-    # def returnUser(email,password)
-    #     if user_exist(email)
-    #         @users.each {|user| return user if  user["email"] == email && user["password"] == password}
-    #     else
-    #         puts "password est incorrect "
-    #     end
-    # end
-
     private
     def load_json
         filePath = "data/users.json"
@@ -52,7 +44,6 @@ class UserManipulation
             file.write(JSON.pretty_generate(data))
         end
     end
-
 end
 # tester la class
 user = {
@@ -63,4 +54,4 @@ user = {
     "role"=> "admin",
     "sexe"=> "male"
   }
-p UserManipulation.new.returnUser("fadelellaherrami@gmail.com","jskjskjs")
+p UserManipulation.new

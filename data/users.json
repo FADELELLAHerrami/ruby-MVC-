@@ -8,43 +8,11 @@
     "sexe": "female"
   },
   {
-    "firstName": "rqiyaa",
+    "firstName": "Fadel ellah ",
     "lastName": "ERRAMI",
-    "email": "rqiyaerrami@gmail.com",
-    "password": "543f21",
+    "email": "fadel12345@gmail.com",
+    "password": "password",
     "role": "user",
-    "sexe": "female"
-  },
-  {
-    "firstName": "FADEL ELLAH",
-    "lastName": "ERRAMI",
-    "email": "fadelellaherrami@gmail.com",
-    "password": "543f21",
-    "role": "admin",
-    "sexe": "male"
-  },
-  {
-    "firstName": "FADEL ELLAH",
-    "lastName": "ERRAMI",
-    "email": "fadelellaherrami@gmail.com",
-    "password": "543f21",
-    "role": "admin",
-    "sexe": "male"
-  },
-  {
-    "firstName": "ahmed",
-    "lastName": "ERRAMI",
-    "email": "fadelellaherrami@gmail.com",
-    "password": "543f21",
-    "role": "admin",
-    "sexe": "male"
-  },
-  {
-    "firstName": "ahmed",
-    "lastName": "ERRAMI",
-    "email": "fadelellahwwerrami@gmail.com",
-    "password": "543f21",
-    "role": "admin",
     "sexe": "male"
   }
 ]
